@@ -1,0 +1,40 @@
+body {
+  background-color: #DFF6B9;
+}
+
+header {
+  padding: 1em;
+  width: 100%;
+  text-align: center;
+  background-image: url("../images/moonflower-left.png"), url("../images/moonflower-right.png");
+  background-position: left, right;
+  background-repeat: no-repeat;
+  background-color: #CCF885;
+}
+
+aside {
+  background-color: #DEEACA;
+}
+
+aside div {
+  margin-left: 1em;
+}
+
+#teas article.row {
+  background-color: cornsilk;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  padding: 1em 0;
+}
+
+#teas {
+  margin-bottom: 15px;
+  padding: 1em;
+}
+
+#about {
+  background-color: floralwhite;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  padding: 1em;
+}

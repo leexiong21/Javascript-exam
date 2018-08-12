@@ -1,0 +1,223 @@
+{
+  "teas": [
+    {
+      "name": "Ancient Forests Tea",
+      "type": "green",
+      "origin": "China",
+      "cost": [
+        {
+          "size": "4oz",
+          "amount": "$11.00"
+        },
+        {
+          "size": "8oz",
+          "amount": "$18.00"
+        }
+      ],
+      "description": "This tea comes to us exclusively from stands of protected, ancient growth tea plants in the Yunnan province of China, all of which range in age from 500 to 2,700 years old. This tea has a deeply penetrating flavor and aroma that is unlike any other black or green tea on the market. Bold, dark, and inviting; this tea is partially fermented which will appeal to the senses of both the black tea lover and the green tea lover.",
+      "image": "ancient-forest-tea.jpg"
+    },
+    {
+      "name": "Assam Tea",
+      "type": "black",
+      "origin": "India",
+      "cost": [
+        {
+          "size": "4oz",
+          "amount": "$7.00"
+        },
+        {
+          "size": "8oz",
+          "amount": "$10.00"
+        }
+      ],
+      "description": "The most popular and palatable black tea, Assam has a full-bodied flavor, which is both dark and malty. Produced exclusively from the region of Assam in India, this tea has become a morning favorite because of its rich aroma, crisp flavor, and penetrating color.",
+      "image": "assam-tea.jpg"
+    },
+    {
+      "name": "Ceylon Tea",
+      "type": "black",
+      "origin": "Sri Lanka",
+      "cost": [
+        {
+          "size": "4oz",
+          "amount": "$10.00"
+        },
+        {
+          "size": "8oz",
+          "amount": "$16.00"
+        }
+      ],
+      "description": "Ceylon tea comes from partially fermenting young tea leaves and is revered as a lively classic with a smooth taste that is not too bitter to the palate. It makes a very nice afternoon tea and works great with snacks.",
+      "image": "ceylon-tea.jpg"
+    },
+    {
+      "name": "Chamomile Tea",
+      "type": "herbal",
+      "origin": "US",
+      "cost": [
+        {
+          "size": "4oz",
+          "amount": "$9.00"
+        },
+        {
+          "size": "8oz",
+          "amount": "$15.25"
+        }
+      ],
+      "description": "An aromatic and flavorful tea made from whole Chamomile flowers. Great after dinner and especially useful just before bed. A traditional remedy for lulling children to sleep, and is beneficial for upset tummies.",
+      "image": "chamomile-tea.jpg"
+    },
+    {
+      "name": "Genmaicha",
+      "type": "green",
+      "origin": "Japan",
+      "cost": [
+        {
+          "size": "4oz",
+          "amount": "$8.00"
+        },
+        {
+          "size": "8oz",
+          "amount": "$12.00"
+        }
+      ],
+      "description": "Genmaicha is a flavorful Japanese classic which includes a stunning combination of whole, fresh Green Sencha leaves combined with roasted organic brown rice. The almost sweet, toasted flavor of the rice adds a lovely contribution to the whole bodied green tea leaves. A great tea for early dining, and well suited for afternoon dishes.",
+      "image": "genmaicha.jpg"
+    },
+    {
+      "name": "Gunpowder Green Tea",
+      "type": "green",
+      "origin": "Japan",
+      "cost": [
+        {
+          "size": "4oz",
+          "amount": "$8.00"
+        },
+        {
+          "size": "8oz",
+          "amount": "$12.00"
+        }
+      ],
+      "description": "A hearty, strong, green tea that is rolled in small pellets and was aptly named because of its resemblance to the pellets used for gunpowder ammunitions during the 17th century. Originally rolled tightly to preserve freshness and maintain moisture during long voyages overseas, it still holds true as an unsurpassable fresh tea that is full of dark bold color and a striking taste that is unforgettable. Gunpowder tea is astringent and mildly bitter. Soften the taste by adding a very small pinch of Stevia or Spearmint.",
+      "image": "gunpowder-tea.jpg"
+    },
+    {
+      "name": "Jasmine Tea",
+      "type": "green",
+      "origin": "Various",
+      "cost": [
+        {
+          "size": "4oz",
+          "amount": "$12.00"
+        },
+        {
+          "size": "8oz",
+          "amount": "$19.50"
+        }
+      ],
+      "description": "A fabulous all purpose tea made from freshly picked green tea leaves semi-fermented and infused with the aroma of fresh Jasmine flowers. This tea has a distinct floral aroma and flavor that can be enjoyed any time of the day.",
+      "image": "jasmine-tea.jpg"
+    },
+    {
+      "name": "Lavender Earl Grey Tea",
+      "type": "blend",
+      "cost": [
+        {
+          "size": "4oz",
+          "amount": "$8.00"
+        },
+        {
+          "size": "8oz",
+          "amount": "$12.00"
+        }
+      ],
+      "description": "A traditional earl grey tea mixed with lavender to soften and mellow a long time favorite. Great with honey, or a hint of sugar. ",
+      "image": "lavender-earl-grey.jpg"
+    },
+    {
+      "name": "Mint Tea",
+      "type": "herbal",
+      "origin": "US",
+      "cost": [
+        {
+          "size": "4oz",
+          "amount": "$8.00"
+        },
+        {
+          "size": "8oz",
+          "amount": "$12.00"
+        }
+      ],
+      "description": "Delightful, refreshing, and invigorating, a blended infusion of mints gives this tea just the right harmony. Simple and minty, enjoy a cup with lemon and honey, or brew as a sun tea.",
+      "image": "mint-tea.jpg"
+    },
+    {
+      "name": "Orange Spice Tea",
+      "type": "black",
+      "cost": [
+        {
+          "size": "4oz",
+          "amount": "$8.00"
+        },
+        {
+          "size": "8oz",
+          "amount": "$12.00"
+        }
+      ],
+      "description": "A warm, soothing, Ceylon tea blend with just the right ingredients: orange peel, cinnamon chips, and clove. A marvelous way to savor the serenity of an evening's peace. A very robust and fragrant tea blend, perfect for winter.",
+      "image": "orange-spice-tea.jpg"
+    },
+    {
+      "name": "Oolong Tea",
+      "type": "black",
+      "origin": "China",
+      "cost": [
+        {
+          "size": "4oz",
+          "amount": "$12.00"
+        },
+        {
+          "size": "8oz",
+          "amount": "$19.50"
+        }
+      ],
+      "description": "A succulent tea especially palatable for those that do not enjoy the sharpness typical of green teas. Oolong tea is unique because of its partial fermentation which produces a diverse arrangement of both off-green and black leaves. This tea is beautiful, tasty, full bodied, healthy and with a mildly smooth aftertaste. Highly recommended to those that enjoy the health benefits of green tea but have a hard time with its lingering, semi bitter taste.",
+      "image": "oolong-tea.jpg"
+    },
+    {
+      "name": "Red Rooibos Tea",
+      "type": "herbal",
+      "origin": "South Africa",
+      "cost": [
+        {
+          "size": "4oz",
+          "amount": "$5.00"
+        },
+        {
+          "size": "8oz",
+          "amount": "$7.75"
+        }
+      ],
+      "description": "An exquisite red tea from the highest mountain peaks of South Africa. Rooibos produces a tea with a hearty red color with a warm scent and an aromatic after taste. Rooibos holds a superior, natural sweetness that is unsurpassed. This tea is very high in anti-oxidants, trace minerals, and nutrients.",
+      "image": "red-rooibos-tea.jpg"
+    },
+    {
+      "name": "Sencha Tea",
+      "type": "green",
+      "origin": "Japan",
+      "cost": [
+        {
+          "size": "4oz",
+          "amount": "$16.00"
+        },
+        {
+          "size": "8oz",
+          "amount": "$25.00"
+        }
+      ],
+      "description": "This tea comes from the season's fresh harvest of the first young leaves, handpicked from the high mountaintops of Japan. They are immediately steamed to retain their peak flavor and vibrant, brilliant, green color. Extensive research confirms the high anti-oxidant and poly phenol activity found in green tea, and it comes highly recommended as a general cleansing beverage. Because of the caffeine content, green tea should be prepared using small amounts of herb and steeped no longer than 1-2 minutes.",
+      "image": "sencha-tea.jpg"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "month": "December",
+  "hours": [
+    {
+      "day": "Monday - Friday",
+      "time": "10AM - 8PM"
+        },
+    {
+      "day": "Saturday",
+      "time": "noon - 6PM"
+        },
+    {
+      "day": "Sunday",
+      "time": "Closed"
+    }
+  ],
+  "specials": [
+    {
+      "discount-code": "goods15off",
+      "description": "All tea mugs, pots, and accessories 15% off!"
+    },
+    {
+      "discount-code": "teafeature",
+      "description": "Sample our tea of the month, Orange Spice, at 10% off!"
+    }
+  ]
+}
